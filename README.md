@@ -8,7 +8,11 @@ Invent your own musical instrument using Overtone and Quill.
 
 # Getting started
 
+1. Fork this project.
+2. Create a branch with your name.
+3. Once happy submit a pull request.
+
+Docs:
+
 Quill: https://github.com/quil/quil
-
 Overtone: https://github.com/overtone/overtone
-
