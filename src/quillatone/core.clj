@@ -1,6 +1,6 @@
-(ns quillatone.core)
+(ns quillatone.core
+  (:use
+   [quil.core]
+   [overtone.live]))
 
-(defn foo
-  "I don't do a whole lot."
-  [x]
-  (println x "Hello, World!"))
+
