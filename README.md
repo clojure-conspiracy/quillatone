@@ -14,5 +14,5 @@ Invent your own musical instrument using Overtone and Quill.
 
 Docs:
 
-Quill: https://github.com/quil/quil
-Overtone: https://github.com/overtone/overtone
+* Quill: https://github.com/quil/quil
+* Overtone: https://github.com/overtone/overtone
