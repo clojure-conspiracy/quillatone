@@ -1,4 +1,5 @@
-overtone-and-quill
-==================
+# Quillatone
 
-Overtone and Quill: 6/11/2013 Berlin Clojure meetup
+Invent your own musical instrument using Overtone and Quill.
+
+6/11/2013 Berlin Clojure meetup.
